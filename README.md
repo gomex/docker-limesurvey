@@ -4,9 +4,11 @@ Docker image to run Limesurvey applications on production.
 
 ## Building the image
 
+```
 git clone https://github.com/gomex/docker-limesurvey.git
 cd docker-limesurvey
 docker build -t=gomex/limesurvey .
+```
 
 ## Using the image
 
